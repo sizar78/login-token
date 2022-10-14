@@ -1,6 +1,6 @@
-__author__ = 'BlueRed_'
-__madeBy__ = 'Impostor'
-__git__ = 'https://github.com/CSM-BlueRed/Impostor'
+author = 'BlueRed_'
+madeBy = 'Impostor'
+git = 'https://github.com/CSM-BlueRed/Impostor'
 
 # Obfuscated with Impostor
 
