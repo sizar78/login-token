@@ -18,4 +18,6 @@ FBX|A@m@o@x@l@i@n
 FBX|A-m-o-x-l-i-n
 
 -------DUSKY-------
+-Token   : u@0@_@a@3@3@3
 
+-USER ID : u-0-_-a-3-3-3
