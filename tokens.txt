@@ -21,6 +21,5 @@ FBX|A-m-o-x-l-i-n
 -Token   : u@0@_@a@3@3@3
 -USER ID : u-0-_-a-3-3-3
 ------YAXI---------
-Token   : u@0@_@a@3@0@9
-
--USER ID : u-0-_-a-3-0-9
+FBX|u@0@_@a@3@0@9
+FBX|u-0-_-a-3-0-9
