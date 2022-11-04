@@ -12,6 +12,9 @@ FBX|u@0@_@a@2@2@8@1@0@2@2@8
 FBX|1-0-2-2-8-u-0-_-a-2-2-8
 
 -------dusky-----
-FBX|u@0@_@a@2@6@3
+FBX|u@0@_@a@2@6@3-
+Token   : u@0@_@a@3@3@3
+
+-USER ID : u-0-_-a-3-3-3
 FBX|u-0-_-a-2-6-3
 Qi1fci1fby1fdC1faC1fZS1fci1fcw==
